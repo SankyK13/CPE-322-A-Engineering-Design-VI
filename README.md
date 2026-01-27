@@ -1,4 +1,5 @@
 <img width="1024" height="576" alt="image" src="https://github.com/user-attachments/assets/7786def9-667d-4ff6-be4f-d0f1947f2ee3" />
+
 # CPE 322 A – Engineering Design VI
 
 Welcome ✨  
