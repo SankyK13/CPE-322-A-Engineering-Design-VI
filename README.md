@@ -47,11 +47,9 @@ This repository documents my **assignments**, **labs**, and **project work** for
 
 ## 📺 Learning Resource
 
-I used the following video to learn how to create repositories, write a README, and use Markdown effectively:
+[CrashCourse Video Link](https://www.youtube.com/watch?v=fxJWin195kU)
 
-[GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=fxJWin195kU)
-
-This resource helped me understand the tools required to document and manage engineering projects using GitHub.
+This resource helped me understand the tools required to document engineering projects.
 
 ---
 
